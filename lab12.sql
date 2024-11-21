@@ -1,3 +1,4 @@
+-- Olatundun Oyinkansola Olayemi
 SELECT concat(course_name, '-', semester)
 FROM courses
 
